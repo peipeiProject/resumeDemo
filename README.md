@@ -1,30 +1,15 @@
-# 项目访问地址 https://peipeiproject.github.io/resumeDemo/
+## 项目访问地址 https://peipeiproject.github.io/resumeDemo/
 
-> A Vue.js project
-
-## Build Setup
+> element-ui 简历搜索项目
 
 ``` bash
+安装与运行
 # install dependencies
-npm install
+npm install   //安装依赖
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run dev   //服务端运行 访问 http://localhost:8080
 
 # build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+npm run build   //项目打包 
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
